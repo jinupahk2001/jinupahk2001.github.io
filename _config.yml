@@ -24,7 +24,7 @@ footer-links:
   email: jinupahk@snu.ac.kr
   facebook:
   flickr:
-  github: jinupahk2001/jinupahk2001.github.io
+  github: 
   instagram:
   linkedin: 
   pinterest:
@@ -48,7 +48,7 @@ google_analytics: UA-43339302-11
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://jinupahk2001.github.io
+url: http://jinupahk2001.github.io
 enforce_ssl: https://www.amitmerchant.com/reverie
 
 # If you're hosting your site at a Project repository on GitHub pages
